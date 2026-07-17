@@ -6,5 +6,9 @@
     "2026":  {
                  "version":  "1.0.7",
                  "url":  "https://github.com/fredyandresc97-art/ados-revit/releases/download/2026-v1.0.7/ADOS.Revit_2026_Setup_1.0.7.exe"
+             },
+    "2027":  {
+                 "version":  "1.0.7",
+                 "url":  "https://github.com/fredyandresc97-art/ados-revit/releases/download/2027-v1.0.7/ADOS.Revit_2027_Setup_1.0.7.exe"
              }
 }
